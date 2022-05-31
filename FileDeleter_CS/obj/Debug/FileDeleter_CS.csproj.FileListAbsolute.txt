@@ -1,6 +1,0 @@
-D:\C#Projects\FileDeleter_CS\bin\Debug\FileDeleter_CS.exe
-D:\C#Projects\FileDeleter_CS\bin\Debug\FileDeleter_CS.pdb
-D:\C#Projects\FileDeleter_CS\obj\Debug\FileDeleter_CS.csproj.AssemblyReference.cache
-D:\C#Projects\FileDeleter_CS\obj\Debug\FileDeleter_CS.csproj.CoreCompileInputs.cache
-D:\C#Projects\FileDeleter_CS\obj\Debug\FileDeleter_CS.exe
-D:\C#Projects\FileDeleter_CS\obj\Debug\FileDeleter_CS.pdb
